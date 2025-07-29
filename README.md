@@ -107,8 +107,4 @@ This is an interactive **Vendor Performance Analytics Dashboard** built using **
   - Streamlit layout and UI
 - Code is well-commented and structured for easy maintenance and future extensions.
 
----
 
-## License
-
-This project is open-source and available under the MIT License.
